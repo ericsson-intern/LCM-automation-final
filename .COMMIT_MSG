@@ -1,0 +1,5 @@
+Automated StepUp: CDAC to 8.47.0 -- ignore-commit
+
+      131  : bss rm cpm cdac                                      8.46.0 ==> 8.47.0
+      129  : bss rm cpm cdac common                               8.45.0 ==> 8.47.0
+  $bom\pom.xml
